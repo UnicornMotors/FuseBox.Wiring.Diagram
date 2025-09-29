@@ -11,6 +11,7 @@ sch: https://www.google.com/search?q=2006+volkswagen+jetta+headlight+fuse
 
 discuss: https://forums.tdiclub.com/index.php?threads/headlight-fuses-06-jetta.262269/
 
-## Fault:
-https://www.google.com/search?q=volkswagen+jetta+J519
-J519 is the On-Board Voltage Control Unit
+## Fault: J519 is the On-Board Voltage Control Unit
+sch: https://www.google.com/search?q=volkswagen+jetta+J519
+
+discuss: https://forums.tdiclub.com/index.php?threads/is-my-j519-bad.355338/
