@@ -18,4 +18,7 @@ sch: https://www.google.com/search?q=volkswagen+jetta+J519
 discuss: https://forums.tdiclub.com/index.php?threads/is-my-j519-bad.355338/
 
 sch: https://www.google.com/search?q=J519
+
+discuss:
+- https://www.reddit.com/r/Audi/comments/12d3jpz/j519_electrical_system_control_module/
 - https://www.a5oc.com/threads/accessing-j519-module.25860/
