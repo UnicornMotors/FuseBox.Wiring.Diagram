@@ -15,3 +15,4 @@ discuss: https://forums.tdiclub.com/index.php?threads/headlight-fuses-06-jetta.2
 sch: https://www.google.com/search?q=volkswagen+jetta+J519
 
 discuss: https://forums.tdiclub.com/index.php?threads/is-my-j519-bad.355338/
+>Am I missing something or are the headlights powered directly out of the J519 and not fused ?
